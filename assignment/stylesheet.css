@@ -1,18 +1,25 @@
-header{
-    background-color: darkblue;
-    color: aqua;
+.title{
+    background-color: rgb(40, 40, 150);
+    color: teal;
     text-align: center;
 }
 
-main{
-    background-color: lightgray;
+.text{
+    background-color: lightgrey;
     padding: 1em; 
-    
 }
 
 body{
+    margin: 0;
+}
+
+.recordPic{
     background-image: url("record.png");
     background-repeat: repeat;
-    margin: 0;
-    
+    background-color: rgb(52, 171, 171);
+}
+
+.myQs{
+    background-color:  rgb(40, 40, 150);
+    color: teal;
 }
